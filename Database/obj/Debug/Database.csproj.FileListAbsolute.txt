@@ -1,0 +1,10 @@
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\FormsMobile\Database\bin\Debug\Database.dll
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\FormsMobile\Database\bin\Debug\Database.pdb
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\FormsMobile\Database\obj\Debug\Database.dll
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\FormsMobile\Database\obj\Debug\Database.pdb
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\FormsMobile\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\BackUP\FormsMobile -3-12\Database\bin\Debug\Database.dll
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\BackUP\FormsMobile -3-12\Database\bin\Debug\Database.pdb
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\BackUP\FormsMobile -3-12\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\BackUP\FormsMobile -3-12\Database\obj\Debug\Database.dll
+C:\Users\Glass\Documents\Visual Studio 2015\Projects\BackUP\FormsMobile -3-12\Database\obj\Debug\Database.pdb
